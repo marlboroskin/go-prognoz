@@ -1,0 +1,23 @@
+# Go
+*.exe
+*.out
+*.test
+*.prof
+*.coverprofile
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+/bin/
+/dist/
+
+# Logs
+*.log
+
+# Environment
+.env
+
